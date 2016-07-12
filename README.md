@@ -1,4 +1,4 @@
-# week1-project1b
+# Week 1 Project 1
 
 To edit this project, click the green "Clone or Download" button, and choose Download Zip. 
 
